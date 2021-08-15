@@ -8,7 +8,7 @@
 <!---
 anishts125/anishts125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 <p class="header"><span>SENIOR PROGRAMMER | JAVA SE PROGRAMMER</span></p>
 
@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 
 <li>Innovator of next-generation solutions, systems and applications giving companies a competitive edge and producing outstanding results for customers.</li>
 
-</ul>
+</ul> --->
