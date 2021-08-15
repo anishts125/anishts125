@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new things
 - 🎓 Recently completed my graduation
 - 👨‍💻 Looking for a company to start my career
-
+- 🖥️ My code doesn’t always work, but when it does... I don’t know why.🤧
 
 <!---
 anishts125/anishts125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
