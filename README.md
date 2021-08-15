@@ -1,8 +1,8 @@
 - 👋 Hey There I'm Anish T S
-- 👀 Recently completed my graduation
+- 🗺️ Live at Kottayam, Kerala
 - 🌱 I’m currently learning new things
-- 💞️ Recently completed my graduation
-- 📫 Looking for a company to start my career
+- 🎓 Recently completed my graduation
+- 👨‍💻 Looking for a company to start my career
 
 
 <!---
